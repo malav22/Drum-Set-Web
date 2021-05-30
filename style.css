@@ -1,0 +1,79 @@
+body{
+    background-image:url(img/Background_img.png);
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+footer{
+    text-align:center;
+    color:white;
+}
+h1{
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 75px;
+    
+}
+#main_image{
+    width:250px;
+    height:200px;
+}
+.set{
+    margin:auto;
+}
+.a{
+    background-image: url("img/snare.webp");
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+    
+.s{
+    background-image: url("img/kickdrum.png");
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+    
+.d{
+    background-image: url("img/tom.webp");
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+    
+.__{
+    background-image: url("img/tom.webp");
+    text-decoration: underline;
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+    
+.j{
+    background-image: url("img/floor_tom.webp");
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+    
+.k{
+    background-image: url("img/hihat.webp");
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+    
+.l{
+    background-image: url("img/drum_cymbal.png");
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+.drum{
+    outline: none;
+    border: 10px solid powderblue;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    color: #0c30ce;
+    display:inline;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 11px;
+    background-color: white;
+    background-color: beige;
+}   
